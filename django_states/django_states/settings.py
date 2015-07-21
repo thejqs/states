@@ -79,7 +79,7 @@ DATABASES = {
         'NAME': 'django_states', 
         'HOST': '127.0.0.1', 
         'USER': 'root', 
-        'PASSWORD': 'root', 
+        'PASSWORD': 'Rum5pr1ng@', 
         'PORT': ''
     }
 }
